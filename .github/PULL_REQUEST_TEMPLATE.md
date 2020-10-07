@@ -1,9 +1,11 @@
 **Deliverable Submission**
 
-Please describe your comfort and completeness levels before submitting.
+On a scale from 1 to 5, how comfortable were you with this assignment?
 
-Comfort Level (1-5): 
+What was a win you had with this assignment?
 
-Completeness Level (1-5):
+What was a challenge you had with this assignment?
 
-What did you think of this deliverable?:
+Is there anything that you'd like some further information on?
+
+Other stuff on your mind? Work with anyone? Tell us about it!
